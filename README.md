@@ -1,7 +1,9 @@
 # Practice Practice Practice
 ```
-+ The more you practice, the more you learn
-+ The more you learn, the more you earn
+The more you practice,
+             the more you learn
+The more you learn,
+             the more you earn
 ```
  ## Jesus Christ is Lord
  _Glory to Jesus Christ_
@@ -15,15 +17,15 @@
  + **P**ersistence
  + **P**atience
  
- **H<sub>2</sub>O** is for **Water** 
- > - Believe in God, you receive
- > - Believe in yourself, you achieve
+ > **H<sub>2</sub>O** is for **Water** 
+ - Believe in God, you receive
+ - Believe in yourself, you achieve
  ## GitHub
  [Mjoelo](https://github.com/mjoelo)
  ### Python
- ![First](/main/Python.PNG)
+ ![First](./Python.PNG)
  ## Kotlin
- ![Second](/main/Kotlin.PNG)
+ ![Second](./Kotlin.PNG)
  ### Coding tools
  1. Powershell
     - PowerShell 7.4
